@@ -33,4 +33,3 @@ validation_label=tk.Label(aken,text="Sisesta vähemalt 5 märki!",fg="red")
 validation_label.pack()
 
 aken.mainloop()
-
